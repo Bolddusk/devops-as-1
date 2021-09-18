@@ -1,6 +1,14 @@
 # devops-as-1
 1st assignment of DevOps Training
 
+## - What are the benefits of Cloud Computing
+ - Cost : Cloud computing eliminates the expense of buying hardware, software & the on premisis setup.
+ - Global Scale : One can increase/decrease the resources as per usage.
+ - Performance : Multiple servers are runing worldwide which are regularly updated to the latest generation of fast and efficient computing hardware.
+ - Speed : It allows to deploy our service on few clicks
+ - Producitivity: All the work which we need to setup an on-premisis server isn't required at all.
+ - Reliability : It makes data backup, disaster recovery, and business continuity easier and less expensive because data can be mirrored at multiple servers across the network.
+
 ## - Git vs GitHub
 Git is a VCS technology which works on local computer whereas Github is a cloud base service which has so many additional features.
 
