@@ -8,6 +8,17 @@ The goal of DevOps is to help bring together developers who write application so
 
 In agile the development is divided into batches and when the software is tested and the bugs are fixed if any deployment is on done on the end of the sprint where as in devOps as soon as the code is tested and it is correct it is deployed.
 
+## - Define CI, Continuous Delivery & Continuous Deployment
+- Continuous Integration : When a developer writes a code as soon as it works a little bit even the feature is not complete it is pushed source code which is tested right away and other developers pull it and the same process goes on to reduce merge conflicts imporove the process overall.
+- Continuous Delivery & Continuous Deployment : 
+     It is all about how to quickly get code into production. 
+     Code -> Build -> QA( Env. 1) -> (Extra Enviroments) -> Staging ( Env. 2 ) -> Pro
+     The first setup is to build the code then we do the whole bunch of testings before deploying it to the production. Most companies have 2 to 5 enviroments in between. When
+     code is move to QA enviroment automated tests are ran and if the pass it is moved further to staging enviroment and again automated tests are ran.
+     In Continuous Delivery to move from staging enviroment to production there is another level of governance usually "Change Approval Board (CAB)" which approve changes 
+     to move into production where as in Continuous Deployment this process is also automated when one is confident about all the automation in previous stages. Usually 
+     canary deployment is done which is deployment of the new changes to the subset of the whole users of application for mitigating the risk.
+
 
 ## - What are the benefits of Cloud Computing
  - Cost : Cloud computing eliminates the expense of buying hardware, software & the on premisis setup.
