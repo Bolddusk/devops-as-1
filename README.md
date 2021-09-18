@@ -1,6 +1,14 @@
 # devops-as-1
 1st assignment of DevOps Training
 
+## - Agile vs DevOps
+In an agile approach, some planning and design is done upfront, but the development proceeds in small batches and involves close collaboration with stakeholders. Changes are incorporated continuously and a usable version of a product is released at the end of the sprint which is reviewed by the stakeholders for feedback.
+
+The goal of DevOps is to help bring together developers who write application software and operations who run the software in production. Also, to build and maintain the infrastructure where it runs. 
+
+In agile the development is divided into batches and when the software is tested and the bugs are fixed if any deployment is on done on the end of the sprint where as in devOps as soon as the code is tested and it is correct it is deployed.
+
+
 ## - What are the benefits of Cloud Computing
  - Cost : Cloud computing eliminates the expense of buying hardware, software & the on premisis setup.
  - Global Scale : One can increase/decrease the resources as per usage.
